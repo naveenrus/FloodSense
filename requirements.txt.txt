@@ -1,0 +1,5 @@
+streamlit
+earthengine-api
+folium
+geemap
+Pillow
