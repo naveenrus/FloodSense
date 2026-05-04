@@ -6,3 +6,4 @@ rasterio
 geopandas
 folium
 geopy
+reportlab
